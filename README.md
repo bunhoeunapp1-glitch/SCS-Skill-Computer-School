@@ -150,3 +150,4 @@
 ![image alt](https://github.com/Ryuka2006/SCS-Skill-Computer-School/blob/d944623bf8c06d47ade1e2196bf792bd4720900d/img148.jpg)
 ![image alt](https://github.com/Ryuka2006/SCS-Skill-Computer-School/blob/d944623bf8c06d47ade1e2196bf792bd4720900d/img149.jpg)
 ![image alt](https://github.com/Ryuka2006/SCS-Skill-Computer-School/blob/d944623bf8c06d47ade1e2196bf792bd4720900d/img150.jpg)
+![image alt](https://github.com/Ryuka2006/SCS-Skill-Computer-School/blob/d944623bf8c06d47ade1e2196bf792bd4720900d/logo.jpg)
